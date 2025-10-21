@@ -35,6 +35,8 @@ Telegram Alerts + JSON Logs
 ## Limitations & Next Steps
 - Testnet only; add live with warnings.
 - No backtesting; integrate for optimization.
-
+- Related Projects: https://github.com/sckrudji-tech/crypto-arbitrage-bot
+  
 ## Contact
+
 Text-only. [sckrudji@gmail.com]
